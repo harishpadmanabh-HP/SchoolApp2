@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "208242688588",
+    "firebase_url": "https://shantigirischool.firebaseio.com",
+    "project_id": "shantigirischool",
+    "storage_bucket": "shantigirischool.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:208242688588:android:ff7ed520676a89c7",
+        "android_client_info": {
+          "package_name": "com.schoolmanapp.shantigirischool.school"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "208242688588-7aaac5rv9u294u1k8gvulgamjaq3f4pu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAo3a6W0dV_M7WHgdJGzS315VM5WmZNprE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "208242688588-7aaac5rv9u294u1k8gvulgamjaq3f4pu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
